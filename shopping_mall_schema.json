@@ -1,0 +1,62 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "AdGroup",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Month",
+    "type": "String"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Impressions",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Clicks",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "CTR",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Conversions",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ConvRate",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Cost",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "CPC",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Revenue",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "SaleAmount",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "PL",
+    "type": "FLOAT"
+  }
+]
