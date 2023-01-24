@@ -6,4 +6,4 @@ class Station(models.Model):
     terminal_id = models.IntegerField()
     class Meta:
         db_table = "cycle_station"
-
+        
